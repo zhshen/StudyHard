@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "unit-test"
+    "name": "mcs.web.angular.components"
   },
   "apps": [
     {

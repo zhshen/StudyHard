@@ -1,10 +1,10 @@
-import { UnitTestPage } from './app.po';
+import { AppPage } from './app.po';
 
-describe('unit-test App', () => {
-  let page: UnitTestPage;
+describe('mcs.web.angular.components App', () => {
+  let page: AppPage;
 
   beforeEach(() => {
-    page = new UnitTestPage();
+    page = new AppPage();
   });
 
   it('should display welcome message', () => {
